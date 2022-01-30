@@ -1,3 +1,4 @@
 # simple-tvshows-catalog-dotnet-app
 
-##Praticing .Net whith a simple CRUD app.
+##Praticing C# .NET DIO challange;
+A simple CRUD app.
