@@ -1,0 +1,15 @@
+D:\workspace\dio-desafio-github-primeiro-repositorio\TvShowCatalog\obj\Debug\net6.0\TvShowCatalog.csproj.AssemblyReference.cache
+D:\workspace\dio-desafio-github-primeiro-repositorio\TvShowCatalog\obj\Debug\net6.0\TvShowCatalog.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\dio-desafio-github-primeiro-repositorio\TvShowCatalog\obj\Debug\net6.0\TvShowCatalog.AssemblyInfoInputs.cache
+D:\workspace\dio-desafio-github-primeiro-repositorio\TvShowCatalog\obj\Debug\net6.0\TvShowCatalog.AssemblyInfo.cs
+D:\workspace\dio-desafio-github-primeiro-repositorio\TvShowCatalog\obj\Debug\net6.0\TvShowCatalog.csproj.CoreCompileInputs.cache
+D:\workspace\dio-desafio-github-primeiro-repositorio\TvShowCatalog\bin\Debug\net6.0\TvShowCatalog.exe
+D:\workspace\dio-desafio-github-primeiro-repositorio\TvShowCatalog\bin\Debug\net6.0\TvShowCatalog.deps.json
+D:\workspace\dio-desafio-github-primeiro-repositorio\TvShowCatalog\bin\Debug\net6.0\TvShowCatalog.runtimeconfig.json
+D:\workspace\dio-desafio-github-primeiro-repositorio\TvShowCatalog\bin\Debug\net6.0\TvShowCatalog.dll
+D:\workspace\dio-desafio-github-primeiro-repositorio\TvShowCatalog\bin\Debug\net6.0\ref\TvShowCatalog.dll
+D:\workspace\dio-desafio-github-primeiro-repositorio\TvShowCatalog\bin\Debug\net6.0\TvShowCatalog.pdb
+D:\workspace\dio-desafio-github-primeiro-repositorio\TvShowCatalog\obj\Debug\net6.0\TvShowCatalog.dll
+D:\workspace\dio-desafio-github-primeiro-repositorio\TvShowCatalog\obj\Debug\net6.0\ref\TvShowCatalog.dll
+D:\workspace\dio-desafio-github-primeiro-repositorio\TvShowCatalog\obj\Debug\net6.0\TvShowCatalog.pdb
+D:\workspace\dio-desafio-github-primeiro-repositorio\TvShowCatalog\obj\Debug\net6.0\TvShowCatalog.genruntimeconfig.cache
